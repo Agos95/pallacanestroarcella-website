@@ -3,22 +3,51 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+#main:
+#  - name: Tour
+#    url: tour
+#    weight: 10
+#  - name: News
+#    url: post
+#    weight: 20
+#  - name: People
+#    url: people
+#    weight: 30
+#  - name: Events
+#    url: event
+#    weight: 40
+#  - name: Publications
+#    url: publication
+#    weight: 50
+#  - name: Contact
+#    url: contact
+#    weight: 60
+
 main:
-  - name: Tour
-    url: tour
-    weight: 10
   - name: News
     url: post
+    weight: 10
+
+  - name: Squadre
+    url:
+    identifier: squadre
     weight: 20
-  - name: People
-    url: people
+  ####################
+  # SQUADRE sub-menu #
+  ####################
+  - name: Promozione
+    url:
+    parent: squadre
+    weight: 10
+  - name: Under 17
+    url:
+    parent: squadre
+    weight: 20
+  ####################
+
+  - name: Sponsor
+    url:
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-  - name: Contact
+  - name: Info
     url: contact
-    weight: 60
+    weight: 40
