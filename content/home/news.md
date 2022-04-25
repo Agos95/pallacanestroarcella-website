@@ -4,21 +4,25 @@ widget: pages
 headless: true
 weight: 20
 
-title: Latest News
+title: Ultime Notizie
 subtitle:
 
 content:
-  count: 5
+  count: 3
   filters:
-    author: ''
-    category: ''
+    author:
+    category:
     exclude_featured: false
-    publication_type: ''
-    tag: ''
+    publication_type:
+    tag:
+    folders:
+      - post
   offset: 0
+  sort_by: Date
   order: desc
   page_type: post
 design:
-  view: 3
+  view: 5
   columns: '1'
+  flip_alt_rows: true
 ---

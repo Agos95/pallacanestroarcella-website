@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: Contatti
 subtitle:
 
 content:
@@ -18,8 +18,11 @@ content:
   email: arcellabasket@gmail.com
   phone: 3714903599
   address:
-    street: Via Ludovico Bressan, 3, 35132 Padova
-    city: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.4490244477906!2d11.88529291555598!3d45.420449079100344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x20929beabeebb6d8!2sUnione%20Sportiva%20Arcella!5e0!3m2!1sit!2sit!4v1650897187128!5m2!1sit!2sit" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    street: >
+      <a href="https://g.page/USArcella?share" target="_blank">Via Ludovico Bressan, 3, 35132 Padova<a/> 
+      <br/> 
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.4490244477906!2d11.88529291555598!3d45.420449079100344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x20929beabeebb6d8!2sUnione%20Sportiva%20Arcella!5e0!3m2!1sit!2sit!4v1650897187128!5m2!1sit!2sit" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    city: 
     region:
     postcode:
     country: Italia
@@ -29,8 +32,8 @@ content:
     longitude: 11.88791785054858
   directions: Ingresso del parcheggio in [Via Beata Elena Enselmini](https://goo.gl/maps/E3GKKEEFFUVB9Zxm8).
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - Martedì 17:00-19:00
+    - Mercoledì 17:00-19:00
   #appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
