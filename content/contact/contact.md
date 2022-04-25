@@ -18,10 +18,10 @@ content:
   email: arcellabasket@gmail.com
   phone: 3714903599
   address:
-    street: Via Ludovico Bressan, 3
-    city: Padova
+    street: Via Ludovico Bressan, 3, 35132 Padova
+    city: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2800.4490244477906!2d11.88529291555598!3d45.420449079100344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x20929beabeebb6d8!2sUnione%20Sportiva%20Arcella!5e0!3m2!1sit!2sit!4v1650897187128!5m2!1sit!2sit" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     region:
-    postcode: 35132
+    postcode:
     country: Italia
     country_code: IT
   coordinates:
