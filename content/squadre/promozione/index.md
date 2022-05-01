@@ -1,4 +1,5 @@
 ---
-# Files in this folder represent a Widget Page
+title: Promozione
+
 type: widget_page
 ---
