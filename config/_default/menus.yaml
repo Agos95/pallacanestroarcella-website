@@ -36,7 +36,7 @@ main:
   # SQUADRE sub-menu #
   ####################
   - name: Promozione
-    url:
+    url: squadre/promozione
     parent: squadre
     weight: 10
   - name: Under 17
