@@ -1,4 +1,4 @@
-.nav-link {
+nav-link {
     :hover {
         font-weight: bold;
         text-decoration: underline;
@@ -6,6 +6,17 @@
 
 }
 
+/* Center images in gallery */
+
 .gallery {
     text-align: center;
+}
+
+/* Change default zoom cursor when hovering over images */
+a[data-fancybox] {
+    cursor: pointer;
+}
+
+figure {
+    max-width: 100%;
 }
