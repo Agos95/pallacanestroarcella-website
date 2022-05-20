@@ -13,12 +13,12 @@ menu_title = "#000000"
 
 # Links
 #link = "#000000"
-#link_hover = "#21880D"
+#link_hover = "#ff902c"
 #link_decoration = "underline"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#FFFFFF"
+home_section_even = "#e6e6e6"
 
 #[dark]
 # Primary
