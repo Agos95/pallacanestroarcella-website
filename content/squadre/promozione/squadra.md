@@ -3,7 +3,7 @@ widget: blank
 headless: true
 weight: 10
 
-title: Promozione
+title: PROMOZIONE
 
 
 design:
@@ -21,7 +21,6 @@ design:
 #advanced:
 #    css_class: fullscreen
 ---
-
 
 <center>{{< figure src="PROMOZIONE.jpg" >}}</center>
 

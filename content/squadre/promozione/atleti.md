@@ -7,9 +7,9 @@ title: Atleti
 
 design:
     columns: '1'
-    background: 
+    background:
       color: '#e6e6e6'
-    
+
 gallery_item:
 - album: promozione
   image: Agostini Federico.jpg
