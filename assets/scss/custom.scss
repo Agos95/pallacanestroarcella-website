@@ -1,9 +1,23 @@
-nav-link {
+.nav-link {
+
     :hover {
         font-weight: bold;
         text-decoration: underline;
     }
 
+}
+
+
+.dropdown-item {
+    background-color: $sta-menu-text  !important;
+    color: $sta-menu-primary  !important;
+    //border-top: 2px solid $sta-menu-primary;
+    //border-bottom: 2px solid $sta-menu-primary;
+
+    :hover {
+        font-weight: bold;
+        text-decoration: underline;
+    }
 }
 
 /* Center images in gallery */
