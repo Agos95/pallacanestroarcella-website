@@ -44,6 +44,9 @@ main:
     parent: squadre
     weight: 20
   ####################
+  - name: DSC
+    url: dsc
+    weight: 35
 
   - name: Sponsor
     url:
